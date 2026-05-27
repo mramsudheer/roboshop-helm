@@ -1,0 +1,4 @@
+deployment:
+  replicas: "1"
+  imageName: "mramsudheer/roboshop:mongodb-"
+  imageVersion: "1.0.0"
